@@ -8,4 +8,4 @@
  
 ## Day 3 - Arrays and Loops
 
-## Day 4 Functions, Objects
+## Day 4 - Functions, Objects
